@@ -1,4 +1,4 @@
-# Test özeti — BüyükFelaket
+# Test özeti — FAYT
 
 ## Doğrulanan sürüm ve ortam
 
