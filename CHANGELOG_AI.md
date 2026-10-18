@@ -1,4 +1,4 @@
-# BüyükFelaket — AI değişiklik kaydı
+# FAYT — AI değişiklik kaydı
 
 Araç: OpenAI Codex. Kapsam: yüklenen proje üzerinde 1. etap oyun iyileştirmeleri. Yeni hazır görsel, font, ses veya kütüphane eklenmedi. Oyun saf HTML/CSS/klasik JS olarak kaldı. Önceki proje `/workspace/BuyukFelaket_backup` altında korundu.
 
