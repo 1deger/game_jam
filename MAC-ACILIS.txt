@@ -1,0 +1,7 @@
+FAYT — Mac
+
+1. ZIP dosyasını çift tıklayarak açın.
+2. index.html (veya FAYT-tek-dosya.html) dosyasına çift tıklayın.
+3. Gerekirse sağ tık > Birlikte Aç > Safari veya Google Chrome.
+
+İnternet, sunucu veya kurulum gerekmez.
